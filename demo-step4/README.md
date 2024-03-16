@@ -1,0 +1,1 @@
+pytest --test_file=test_input.json --html=report.html --css=/Users/mamamou/Documents/TechTalks/21_03_2024/workshop/demo-step4/custom.css

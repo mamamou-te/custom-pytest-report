@@ -1,0 +1,22 @@
+# Ignore pytest cache and temporary files
+__pycache__/
+.pytest_cache/
+
+# Ignore pytest result files
+pytest-debug.log
+pytest.prof
+pytest-last-failed
+
+# Ignore pytest coverage files
+.coverage
+htmlcov/
+
+# Ignore pytest generated files
+.pytest_history
+
+# Ignore virtual environment
+venv/
+
+# Ignore pytest-html generated files
+report.html
+assets/
